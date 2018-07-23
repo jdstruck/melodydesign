@@ -1,5 +1,9 @@
 SCREEN_WIDTH = 640 * 2
 SCREEN_HEIGHT = 480 * 2
+
+
+
+
 project="Copy"
 
 WHITE = (255, 255, 255)
