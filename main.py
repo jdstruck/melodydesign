@@ -1,5 +1,6 @@
 from src import controller
 
+project="Original"
 
 def main():
     controller.GUI().main_loop()

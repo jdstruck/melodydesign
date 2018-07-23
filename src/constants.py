@@ -1,5 +1,6 @@
 SCREEN_WIDTH = 640 * 2
 SCREEN_HEIGHT = 480 * 2
+project="Original"
 
 WHITE = (255, 255, 255)
 GRAY = (100, 100, 100)
